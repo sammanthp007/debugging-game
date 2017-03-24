@@ -7,5 +7,5 @@
 - [x] Level 2: Terminating app due to uncaught exception?!?. Use exception Breakpoint
 - [x] Level 3: The Button doesn't work. Using Debug View Heirarchy
 - [x] Level 4: Dude, where's my tableView?. Use breakpoints to find out the error
-- [ ] Level 5
+- [x] Level 5: Why are the descriptions wrong?. Use breakpoints. Add an else statement for movieOverview for movies that do not have overviews
 - [ ] Level 6

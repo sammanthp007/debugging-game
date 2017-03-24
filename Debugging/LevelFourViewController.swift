@@ -45,6 +45,7 @@ class LevelFourViewController: GameLevelViewController, UITableViewDataSource, U
         } catch {
             print("Error parsing JSON")
         }
+        self.tableView.reloadData()
     }
     
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {

@@ -24,7 +24,7 @@ class LevelTwoViewController: GameLevelViewController {
         myString.addAttribute(NSForegroundColorAttributeName, value: UIColor.red, range: NSMakeRange(0, 3))
         myString.addAttribute(NSForegroundColorAttributeName, value: UIColor.green, range: NSMakeRange(3, 4))
         myString.addAttribute(NSForegroundColorAttributeName, value: UIColor.blue, range: NSMakeRange(7, 10))
-        myString.addAttribute(NSForegroundColorAttributeName, value: UIColor.orange, range: NSMakeRange(17, 8))
+        myString.addAttribute(NSForegroundColorAttributeName, value: UIColor.orange, range: NSMakeRange(17, 7))
         self.attributedLabel.attributedText = myString
     }
 

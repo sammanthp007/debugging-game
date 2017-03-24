@@ -11,7 +11,7 @@
     <objects>
         <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="LevelOneViewController" customModule="Debugging" customModuleProvider="target">
             <connections>
-                <outlet property="finishLevelButton" destination="s3X-Gw-OsI" id="w0k-qr-NjM"/>
+                <outlet property="finishLevelButton" destination="s3X-Gw-OsI" id="b9U-Ej-cxl"/>
                 <outlet property="levelDescriptionLabel" destination="vNR-T3-oIX" id="FoU-pp-P7z"/>
                 <outlet property="levelTitleLabel" destination="4DK-Qw-yvO" id="fOd-9E-VEX"/>
                 <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>

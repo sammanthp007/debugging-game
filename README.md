@@ -4,7 +4,7 @@
 
 ## Levels
 - [x] Level 1: The dreaded key-value coding compliant error
-- [ ] Level 2
+- [x] Level 2: Terminating app due to uncaught exception?!?
 - [ ] Level 3
 - [ ] Level 4
 - [ ] Level 5
